@@ -4,7 +4,7 @@ let package = Package(name: "OrcaMongoDB",
     dependencies: [
         .Package(url: "https://github.com/elliottminns/orca.git",
             majorVersion: 0),
-        .Package(url: "https://github.com/elliottminns/mongodb-module.git",
+        .Package(url: "https://github.com/loganwright/mongodb-module.git",
             majorVersion: 0),
         .Package(url: "https://github.com/elliottminns/echo.git",
             majorVersion: 0),
